@@ -1,0 +1,46 @@
+Deliver
+Copyright (c) 2026 Rui Lourenço. All rights reserved.
+
+This licence covers the Deliver software, including its desktop apps, its server and any other
+build of it (the "Software"), as distributed by the author, for example through
+https://github.com/RuiLourenco/deliver-releases.
+
+1. Use. You may download, install and use the Software free of charge, for personal or work
+   purposes.
+
+2. Restrictions. Except where applicable law allows it regardless of this licence, you may not:
+   (a) copy, redistribute or offer the Software for download, other than by linking to the
+       author's official releases;
+   (b) sell, rent, lease or sublicense the Software;
+   (c) modify, decompile, disassemble or reverse engineer the Software;
+   (d) remove or change this notice or any other notice in the Software.
+
+3. Ownership. The Software is licensed, not sold. The author keeps all rights not expressly
+   granted in this licence.
+
+4. Third-party components. The Software includes open-source components that are covered by
+   their own licences, listed in THIRD_PARTY_NOTICES, which comes with each release. Those
+   licences apply to those components, and nothing in this licence limits your rights under them.
+
+5. Your data. The Software sends your data only to the Deliver server you choose to connect it
+   to. The author does not collect it. The desktop app contacts the author's release page to
+   check for updates.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT. In particular, the author does not promise that the
+   plans, schedules or reminders the Software produces are accurate or complete, or that
+   following them will meet any deadline.
+
+7. Limitation of liability. TO THE EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER
+   DEALINGS IN THE SOFTWARE, INCLUDING MISSED DEADLINES AND LOST DATA.
+
+8. Termination. This licence ends automatically if you break any of its terms. You must then stop
+   using the Software and delete your copies of it.
+
+9. Later versions. A later version of the Software may come with a different licence. Each
+   version is covered by the licence it comes with.
+
+Questions: https://github.com/RuiLourenco/deliver-releases/issues
